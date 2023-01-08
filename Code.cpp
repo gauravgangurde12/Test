@@ -10,7 +10,13 @@ int main()
         cout<<"Eat Something ";
     }
     else{
-        cout<<"Do Study ";
+        int y;
+        cout<<"Are you Thirsty? ";
+        cin>>y;
+        if(y)
+        {
+            cout<<"Drink Water ";
+        }
     }
     return 0;
 }
