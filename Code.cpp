@@ -15,7 +15,8 @@ int main()
         cin>>y;
         if(y)
         {
-            cout<<"Drink Water ";
+            cout<<"Drink Water "<<endl;
+            cout<<"Drink Soda ";
         }
     }
     return 0;
