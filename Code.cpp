@@ -11,6 +11,7 @@ int main()
     }
     else{
         cout<<"Do Study ";
+        cout<<"Or else Sleep ";
     }
     return 0;
 }
